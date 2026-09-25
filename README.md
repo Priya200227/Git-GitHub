@@ -195,18 +195,5 @@ Collaborate
 
 I used learning material from the **Not Your College — Git & GitHub** learning resource and rewrote the concepts into my own notes while studying and practicing.
 
-Original resource:
-
-https://41chaitanya.github.io/git_github_notes/
-
-YouTube channel:
-
-https://www.youtube.com/@notyourcollege
-
----
-
-## 🚧 Status
-
-**Learning + Practicing**
-
-This repository will be updated as I learn more Git, GitHub, and software development workflows.
+[NYC YouTube Channel](https://youtu.be/BnEFaIfcwOU?si=N4_J3-igfzyfapWF)
+[Ansh Lamba YouTube Channel](https://youtu.be/Kr8l7rQGwNs?si=Wzr-02Z-DysGzvz5)
