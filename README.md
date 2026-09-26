@@ -194,5 +194,5 @@ Collaborate
 
 I used learning material from the **Not Your College — Git & GitHub** learning resource and rewrote the concepts into my own notes while studying and practicing.
 
-[NYC YouTube Channel](https://youtu.be/BnEFaIfcwOU?si=N4_J3-igfzyfapWF)
-[Ansh Lamba YouTube Channel](https://youtu.be/Kr8l7rQGwNs?si=Wzr-02Z-DysGzvz5)
+- [NYC YouTube Channel](https://youtu.be/BnEFaIfcwOU?si=N4_J3-igfzyfapWF)
+- [Ansh Lamba YouTube Channel](https://youtu.be/Kr8l7rQGwNs?si=Wzr-02Z-DysGzvz5)
