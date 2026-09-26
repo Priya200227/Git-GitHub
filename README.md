@@ -139,7 +139,7 @@ It allows me to:
 * Recover previous versions
 * Collaborate with other developers
 
-GitHub is a platform that hosts Git repositories online and provides collaboration features such as Pull Requests, Issues, code review, and repository management.
+GitHub hosts Git repositories online and provides collaboration features such as Pull Requests, Issues, code review, and repository management.
 
 ---
 
@@ -147,14 +147,13 @@ GitHub is a platform that hosts Git repositories online and provides collaborati
 
 Git is not only useful for software developers.
 
-As I move toward **Data Analytics, Data Engineering, and AI Engineering**, I need version control for:
+As I move toward **Data Analytics**, I need version control for:
 
 * Python projects
 * SQL projects
 * Data pipelines
 * Analytics projects
 * Machine learning projects
-* AI applications
 * Configuration files
 * Documentation
 * Collaboration
