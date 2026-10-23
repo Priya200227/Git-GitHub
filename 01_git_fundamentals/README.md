@@ -90,7 +90,7 @@ Git and GitHub are related, but they are not the same.
   Can be used without GitHub          Uses Git repositories as a core
                                       part of its workflow
   -----------------------------------------------------------------------
-
+  
 A typical workflow looks like this:
 
 ``` text
