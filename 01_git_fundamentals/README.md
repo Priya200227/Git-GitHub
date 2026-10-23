@@ -554,6 +554,8 @@ Continue through the repository in this order:
     Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 -   [GitHub Docs --- About
     Git](https://docs.github.com/en/get-started/using-git/about-git)
+-   [NYC YouTube Channel](https://www.youtube.com/watch?v=BnEFaIfcwOU)
+-   [Ansh Lamba YouTube Channel](https://youtu.be/Kr8l7rQGwNs?si=APxx_bbvEdTKkgAf)
 
 ------------------------------------------------------------------------
 
