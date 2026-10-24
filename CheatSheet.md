@@ -236,6 +236,7 @@ Example `.gitignore` entries:
 # Environment variables and local secrets
 .env
 .env.*
+!.env.example
 
 # Python cache
 __pycache__/
